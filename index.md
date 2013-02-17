@@ -127,6 +127,12 @@ You can find more information about adding commands in the [Commands Cookbook](h
 Changelog
 =========
 
+### [0.9](https://github.com/wp-cli/wp-cli/issues?milestone=7&state=closed)
+
+Commands:
+
+- made `wp scaffold plugin` generate files for unit tests. props [benbalter](http://github.com/benbalter) for Travis CI integration.
+
 ### [0.8](https://github.com/wp-cli/wp-cli/issues?milestone=6&state=closed)
 
 Commands:
